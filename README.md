@@ -42,8 +42,8 @@ Users should be able to:
 ### What I learned
 
 - Deepened my knowledge of nested layouts and CSS Grid
-- Improved the use of media queries for correct mobile display
-- Understanding the specified requirements and their implementation
+- Improved the use of media queries for correct mobile view
+- Better understanding of the specified requirements and their implementation
 - Use of CSS custom properties
 
 ```css
